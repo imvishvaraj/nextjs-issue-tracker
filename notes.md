@@ -15,6 +15,9 @@
 - pagination
 - dashboard
 
+### Prisma
+npm i prisma@5.3.1
+npx prisma init
 
 ### MySQL
 https://hub.docker.com/_/mysql
