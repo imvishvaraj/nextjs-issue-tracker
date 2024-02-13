@@ -33,3 +33,7 @@ grant all privileges on database issues_db to issue_user;
 
 #### connection string
 postgresql://issues_user:issuespass123@127.0.0.1:5432/issues_db
+
+
+create api/issues dir
+npm i zod@3.22.2
