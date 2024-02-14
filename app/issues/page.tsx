@@ -17,7 +17,7 @@ const IssuesPage = () => {
   
 
   return (
-    <div>
+    <div className='max-w-xl '>
       <Button>
         <Link href="/issues/new">New Issue</Link>
       </Button>
